@@ -1,0 +1,8 @@
+# robots.txt - ripetizionilatinobari.it
+User-agent: *
+Allow: /
+
+# Risorse interne non utili nei risultati di ricerca
+Disallow: /assets/vendor/
+
+Sitemap: https://ripetizionilatinobari.it/sitemap.xml
